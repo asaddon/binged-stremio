@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+*.log
+*.tmp
+.git
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+dist
+build
+coverage
+Dockerfile
+docker-compose.yml
